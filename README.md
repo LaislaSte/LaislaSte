@@ -57,3 +57,7 @@
 
 </div>
 
+
+<div>
+  ![Snake animation](https://github.com/LaislaSte/LaislaSte/blob/output/github-contribution-grid-snake.svg)
+</div>
