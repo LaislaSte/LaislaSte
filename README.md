@@ -50,7 +50,6 @@
   
   <h3>Fatos sobre mim</h3> 
 
-  - 🍝 Comida favorita: espaguete.
   - 🐶 Passatempos: Ver vídeos sobre curiosidades, passear com o cachorro, desenhar, ler, ouvir musicas desenvolver projetos pessoais e fazer quizzes sobre programação. 
   -    Pontos Positivos: Criativa, empatica, adaptável, tranquila e senso crítico 
   -    Pontos Negativos: Um pouco distraída, piadista, ansiedade de falar em público e reservada
