@@ -16,6 +16,9 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaSte&layout=compact&show_icons=true&theme=cobalt&hide_border=true&&show_owner=true)](https://github.com/LaislaSte/github-readme-stats" />
   </a>
+  
+  <br><br>
+  ![Snake animation](https://github.com/LaislaSte/LaislaSte/blob/output/github-contribution-grid-snake.svg)
   <br><br>
   <h3>Tecnologias Usadas</h3>
   <ul>
