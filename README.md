@@ -3,7 +3,7 @@
 
 > <p>Laisla Stephanie por aqui! estudante de Análise e Desenvolvimento de Sistemas, desenvolvo em Java, JavaScript, TypeScript e Node</p>
 
-- ✍📖💻 Atualmente estou estudando Projetos arquitetura padrão MVC Java, Node js, React js, TypeScript, e um pouco sobre testes.
+- ✍📖💻 Atualmente estou estudando Projetos arquitetura padrão MVC Java, Spring Boot, Node js, React js, TypeScript, prompt engineering e um pouco sobre testes.
 - 💪 Procuro me aprofundar na área de Desenvolvimento Back-End.
 - ✨ Interesses na área de segurança e redes.
 - 👀 Curiosidade é o meu forte.
