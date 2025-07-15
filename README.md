@@ -2,16 +2,12 @@
 
 <br>
 
-> <p> I am a Software Developer currently working at IBM, where I've gained valuable experience, currently pursuing a degree in Systems Analysis and Development. My primary programming languages include JavaScript (used professionally), TypeScript, PHP, and Java.
+<p> I am a Software Developer currently working at IBM, currently pursuing a degree in Systems Analysis and Development. My primary programming languages include JavaScript, TypeScript, Python, and Java.
 
-- Full-Stack Development
-
-- Clean Code Practices
-
+- Full-Stack Developer
 - Unit and Integration Testing
-
 - Prompt Engineering
-
+- Clean Code Practices
 - Interest in Security and Network Areas
 
 <br>
@@ -26,7 +22,7 @@
   
   <br> 
   
-  ## Technologys Used on Repos
+  ## Stacks
   
   
 <div>
@@ -60,7 +56,6 @@
 </div>
 <div>
   <img align="center" alt="PHP" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="40" width="40" src="./icons/icons8-laravel-64.png" />
 </div>
   <img align="center" alt="Docker" height="40" width="40" src="./icons/icons8-docker-48.svg" />
 
